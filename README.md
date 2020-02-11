@@ -270,6 +270,8 @@
 
 # **优质博客**
 
+- [一个不太优质的博客](https://www.lengyuewusheng.com/)
+
 - [vim使用进阶](https://blog.easwy.com/archives/advanced-vim-skills-catalog/)
 
 - [Vim命令合集](https://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
