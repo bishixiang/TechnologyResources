@@ -48,7 +48,7 @@
 
 - [Docker入门实战百度阅读电子书](https://yuedu.baidu.com/ebook/d817967416fc700abb68fca1?pn=1&rf=https%3A%2F%2Fyuedu.baidu.com%2Febook%2Fd817967416fc700abb68fca1%3Ff%3Dread%26fr%3Daladdin%26key%3Ddocker)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **Kubernetes**
 
@@ -64,7 +64,7 @@
 
 - [Learn Kubernetes in depth](https://learnk8s.io/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **Nginx**
 
@@ -80,7 +80,7 @@
 
 - [nginx官方wiki范例](https://www.nginx.com/resources/wiki/start/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **Lua**
 
@@ -88,13 +88,13 @@
 
 - [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **Golang**
 
 - [Go by Example·Go语言编程范例](https://gobyexample.com/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **Python**
 
@@ -108,7 +108,7 @@
 
 - [learnpython·多种语言编程范例及在线调试](https://www.learnpython.org/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **PHP**
 
@@ -120,7 +120,7 @@
 
 - [Laravel中文文档](https://laravel-china.org/docs/laravel/5.8)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **Shell**
 
@@ -132,7 +132,7 @@
 
 - [AWK程序设计语言](https://awk.readthedocs.io/en/latest/index.html)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **Linux**
 
@@ -164,7 +164,7 @@
 
 - [linux78·专注linux,分享Linux系统运维技术文章](https://www.linux78.com/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **在线工具**
 
@@ -188,7 +188,7 @@
 
 - [java反编译工具](http://www.javadecompilers.com/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **前端相关**
 
@@ -216,7 +216,7 @@
 
 - [jqwidgets](https://www.jqwidgets.com/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **静态博客相关**
 
@@ -228,7 +228,7 @@
 
 - [Sphinx 使用手册](https://zh-sphinx-doc.readthedocs.io/en/latest/index.html)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **资源相关**
 
@@ -242,7 +242,7 @@
 
 - [PC Hunter·手工杀毒辅助软件](http://www.xuetr.com/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **优质文档**
 
@@ -266,7 +266,7 @@
 
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **优质博客**
 
@@ -290,7 +290,7 @@
 
 - [跬步](https://zzyongx.github.io/blogs/index.html)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **优质站点**
 
@@ -326,7 +326,7 @@
 
 - [书栈网](https://www.bookstack.cn/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **包罗万象**
 
@@ -342,4 +342,4 @@
 
 - [一席](https://yixi.tv/)
 
-- [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
+  - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
