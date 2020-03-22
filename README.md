@@ -164,6 +164,8 @@
 
 - [linux78·专注linux,分享Linux系统运维技术文章](https://www.linux78.com/)
 
+- [linux.die.net](https://linux.die.net/)
+
   - [Toc](https://github.com/bishixiang/TechnologyResources#Contents)
 
 # **在线工具**
